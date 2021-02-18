@@ -3,12 +3,13 @@ Awesome XR
 # 新闻媒体
 [VR陀螺 VR陀螺 | 挖掘VR/AR行业机会，为创业者传递价值](https://www.vrtuoluo.cn/)
 
+# twitter
+[HoloLens](https://twitter.com/HoloLens)
 
 
 # 软件平台
 
 [Apple ARKit](https://developer.apple.com/augmented-reality/)
-
 [Google ARCore](https://developers.google.com/ar)
 
 [Facebook Spark AR](https://sparkar.facebook.com/ar-studio/)
