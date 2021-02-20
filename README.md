@@ -4,6 +4,9 @@ Awesome XR
 
 [VR陀螺 VR陀螺 | 挖掘VR/AR行业机会，为创业者传递价值](https://www.vrtuoluo.cn/)
 
+# 重要会议
+[世界VR产业大会](https://www.wcvri.cn/) 
+
 # Twitter
 
 [HoloLens](https://twitter.com/HoloLens)
@@ -18,7 +21,7 @@ Awesome XR
 
 [GoogleARVR](https://twitter.com/GoogleARVR)
 
-[]()
+
 []()
 []()
 []()
