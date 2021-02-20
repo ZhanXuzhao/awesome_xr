@@ -60,6 +60,12 @@ Awesome XR
 
 [Valve Index]()
 
+[HUAWEI VR](https://consumer.huawei.com/cn/wearables/vr-glass/)
+
+[小米 VR](https://www.mi.com/mivr-1o)
+
+[Pico](https://www.pico-interactive.com/cn/index.html)
+
 
 # AR/MR硬件
 
