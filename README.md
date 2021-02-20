@@ -95,7 +95,6 @@ Awesome XR
 **联动**：动漫、电影、游戏
 
 **场景**：影院、餐厅、酒店、展览（艺术展、车展、漫展）、活动现场、婚礼、表白、求婚、表演
-![地铁](https://pbs.twimg.com/media/ElV8WTFXEAAoYZ0?format=jpg&name=small)
 
 **工具**：指南、导航、摩托表盘
 
