@@ -65,6 +65,8 @@ Awesome XR
 
 [Microsoft HoloLens](https://www.microsoft.com/en-us/hololens)
 
+[Google Glass](https://www.google.com/glass/start/)
+
 [MagicLeap](https://www.magicleap.com/)
 
 [DreamGlass](https://www.dreamworldvision.com/)
