@@ -84,6 +84,7 @@ Awesome XR
 # 报告
 
 [2020年VR/AR产业发展报告 | VR陀螺](https://mp.weixin.qq.com/s/iCLJBKirIYoc9Cn6NoK7nQ)
+[艾瑞咨询](https://www.iresearch.com.cn/report.shtml)
 
 
 # 项目
