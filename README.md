@@ -112,7 +112,7 @@ Awesome XR
 开发：资产管理：数字数字资产搜集、生产、整理、管理
 
 
-# 博客
+# 信息节点
 三次方AIRX
 [知乎](https://www.zhihu.com/column/ARDevelops)
 [简书](https://www.jianshu.com/u/a57753a1ae07)
@@ -124,6 +124,12 @@ Awesome XR
 
 Cyril Diagne
 [Twitter](https://twitter.com/cyrildiagne)
+
+XR Bootcamp 
+XR Bootcamp teaches professionals to create VR/AR applications and supports companies to bridge their skills gap in XR development.
+[官网](xrbootcamp.com)
+[Twitter](https://twitter.com/XR_Bootcamp)
+
 []()
 []()
 []()
