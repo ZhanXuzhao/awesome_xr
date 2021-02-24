@@ -112,6 +112,15 @@ Awesome XR
 开发：资产管理：数字数字资产搜集、生产、整理、管理
 
 
+# 博客
+三次方AIRX
+[知乎](https://www.zhihu.com/column/ARDevelops)
+[简书](https://www.jianshu.com/u/a57753a1ae07)
+[Twitter](https://twitter.com/airx_platform)
+[B站](https://space.bilibili.com/662603890)
+[西瓜视频](https://www.ixigua.com/home/50376137733/)
+[OSChina](https://my.oschina.net/u/4805491)
+[腾讯云](https://cloud.tencent.com/developer/column/90391)
 
 
 
