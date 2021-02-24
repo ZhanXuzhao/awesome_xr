@@ -81,6 +81,8 @@ Awesome XR
 
 [Nreal](https://www.nreal.ai/)
 
+[影创科技](https://www.shadowcreator.com/shows/shows.html)
+
 # 报告
 
 [2020年VR/AR产业发展报告 | VR陀螺](https://mp.weixin.qq.com/s/iCLJBKirIYoc9Cn6NoK7nQ)
