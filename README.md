@@ -124,8 +124,8 @@ Awesome XR
 
 Cyril Diagne
 
-![](https://twitter.com/cyrildiagne/photo)
-![](https://twitter.com/i/status/1319262984523448323)
+![icon](https://twitter.com/cyrildiagne/photo)
+![video](https://twitter.com/i/status/1319262984523448323)
 []()
 []()
 []()
