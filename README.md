@@ -123,9 +123,7 @@ Awesome XR
 [腾讯云](https://cloud.tencent.com/developer/column/90391)
 
 Cyril Diagne
-
-![icon](https://twitter.com/cyrildiagne/photo)
-![video](https://twitter.com/i/status/1319262984523448323)
+[Twitter](https://twitter.com/cyrildiagne)
 []()
 []()
 []()
