@@ -122,9 +122,15 @@ Awesome XR
 [OSChina](https://my.oschina.net/u/4805491)
 [腾讯云](https://cloud.tencent.com/developer/column/90391)
 
+Cyril Diagne
 
-
-
+![](https://twitter.com/cyrildiagne/photo)
+![](https://twitter.com/i/status/1319262984523448323)
+[]()
+[]()
+[]()
+[]()
+[]()
 
 
 
