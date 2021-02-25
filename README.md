@@ -3,7 +3,7 @@ Awesome XR
 # 新闻媒体
 
 [VR陀螺 VR陀螺 | 挖掘VR/AR行业机会，为创业者传递价值](https://www.vrtuoluo.cn/)
-[2021年1月VR/AR 行业月报 | VR陀螺](https://www.vrtuoluo.cn/523063.html)
+[VR陀螺 月报](https://www.vrtuoluo.cn/search?s=%E6%9C%88%E6%8A%A5)
 
 # 重要会议
 [世界VR产业大会](https://www.wcvri.cn/) 
