@@ -7,6 +7,10 @@ Awesome XR
 # 重要会议
 [世界VR产业大会](https://www.wcvri.cn/) 
 
+# 课程
+[华为 iLearningX AR](https://developer.huaweiuniversity.com/portal/courses?q=ar)
+
+
 # Twitter
 
 [HoloLens](https://twitter.com/HoloLens)
