@@ -3,7 +3,13 @@ Awesome XR
 # 新闻媒体
 
 [VR陀螺 VR陀螺 | 挖掘VR/AR行业机会，为创业者传递价值](https://www.vrtuoluo.cn/)
+
 [VR陀螺 月报](https://www.vrtuoluo.cn/search?s=%E6%9C%88%E6%8A%A5)
+
+[vrpinea](http://www.vrpinea.com/)
+
+# XR内容平台、制作商
+[酷雷曼 3DVR全景制作服务提供商](https://www.kuleiman.com/)
 
 # 重要会议
 [世界VR产业大会](https://www.wcvri.cn/) 
@@ -71,6 +77,7 @@ Awesome XR
 
 [Pico](https://www.pico-interactive.com/cn/index.html)
 
+[ThinkReality A3](https://www.lenovo.com/us/en/thinkrealitya3)
 
 # AR/MR硬件
 
