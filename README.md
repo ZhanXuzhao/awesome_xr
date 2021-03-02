@@ -8,6 +8,11 @@ Awesome XR
 
 [vrpinea](http://www.vrpinea.com/)
 
+# Community
+[Unity Blog](https://blogs.unity3d.com/?_ga=2.253144138.2124994115.1614667670-2015912995.1601371583)
+
+[Unity Forums XR ](https://forum.unity.com/forums/ar-vr-xr-discussion.80/)
+
 # XR内容平台、制作商
 [酷雷曼 3DVR全景制作服务提供商](https://www.kuleiman.com/)
 
