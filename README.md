@@ -10,6 +10,7 @@ Awesome XR
 
 # XR内容平台、制作商
 [酷雷曼 3DVR全景制作服务提供商](https://www.kuleiman.com/)
+
 [迈吉客](https://www.appmagics.com/#/)
 
 # 重要会议
@@ -95,6 +96,7 @@ Awesome XR
 [Nreal](https://www.nreal.ai/)
 
 [影创科技](https://www.shadowcreator.com/shows/shows.html)
+[madgaze](https://www.madgaze.com/)
 
 # 报告
 [2020年VR/AR产业发展报告 | VR陀螺](https://mp.weixin.qq.com/s/iCLJBKirIYoc9Cn6NoK7nQ)
