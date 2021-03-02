@@ -10,6 +10,7 @@ Awesome XR
 
 # XR内容平台、制作商
 [酷雷曼 3DVR全景制作服务提供商](https://www.kuleiman.com/)
+[迈吉客](https://www.appmagics.com/#/)
 
 # 重要会议
 [世界VR产业大会](https://www.wcvri.cn/) 
