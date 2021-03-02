@@ -8,6 +8,36 @@ Awesome XR
 
 [vrpinea](http://www.vrpinea.com/)
 
+
+# 信息节点
+[知乎 子羽歌 AR、MR领域知识分享及产品测评，共同探索下一代计算平台](https://www.zhihu.com/people/douliar/posts)
+
+
+三次方AIRX
+[知乎](https://www.zhihu.com/column/ARDevelops)
+[简书](https://www.jianshu.com/u/a57753a1ae07)
+[Twitter](https://twitter.com/airx_platform)
+[B站](https://space.bilibili.com/662603890)
+[西瓜视频](https://www.ixigua.com/home/50376137733/)
+[OSChina](https://my.oschina.net/u/4805491)
+[腾讯云](https://cloud.tencent.com/developer/column/90391)
+
+Cyril Diagne
+[Twitter](https://twitter.com/cyrildiagne)
+
+XR Bootcamp 
+
+XR Bootcamp teaches professionals to create VR/AR applications and supports companies to bridge their skills gap in XR development.
+
+[官网](xrbootcamp.com)
+[Twitter](https://twitter.com/XR_Bootcamp)
+
+[]()
+[]()
+[]()
+[]()
+[]()
+
 # Community
 [Unity Blog](https://blogs.unity3d.com/?_ga=2.253144138.2124994115.1614667670-2015912995.1601371583)
 
@@ -67,6 +97,7 @@ Awesome XR
 
 [OPPO AR](https://open.oppomobile.com/newservice/capability?pagename=ar)
 
+[SenseAR](https://www.sensetime.com/en/product-detail?categoryId=1161)
 
 # VR硬件
 
@@ -144,33 +175,6 @@ Awesome XR
 商业销售：效果演示、试用、效果对比（客流量，分享量），通用素材->定制化素材
 
 开发：资产管理：数字数字资产搜集、生产、整理、管理
-
-
-# 信息节点
-三次方AIRX
-[知乎](https://www.zhihu.com/column/ARDevelops)
-[简书](https://www.jianshu.com/u/a57753a1ae07)
-[Twitter](https://twitter.com/airx_platform)
-[B站](https://space.bilibili.com/662603890)
-[西瓜视频](https://www.ixigua.com/home/50376137733/)
-[OSChina](https://my.oschina.net/u/4805491)
-[腾讯云](https://cloud.tencent.com/developer/column/90391)
-
-Cyril Diagne
-[Twitter](https://twitter.com/cyrildiagne)
-
-XR Bootcamp 
-
-XR Bootcamp teaches professionals to create VR/AR applications and supports companies to bridge their skills gap in XR development.
-[官网](xrbootcamp.com)
-[Twitter](https://twitter.com/XR_Bootcamp)
-
-[]()
-[]()
-[]()
-[]()
-[]()
-
 
 
 
