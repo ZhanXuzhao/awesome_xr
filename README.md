@@ -11,7 +11,8 @@ Awesome XR
 
 # 信息节点
 [知乎 子羽歌 AR、MR领域知识分享及产品测评，共同探索下一代计算平台](https://www.zhihu.com/people/douliar/posts)
-
+[罗巍Cyberverse 华为  Fellow Cyberverse总工程师 Camera总工程师 微博](https://weibo.com/u/7279906852?refer_flag=1005050010_&is_all=1)
+[罗巍Cyberverse 西瓜视频](https://www.ixigua.com/home/92030149148/?is_new_connect=0&is_new_user=0)
 
 三次方AIRX
 [知乎](https://www.zhihu.com/column/ARDevelops)
@@ -98,6 +99,8 @@ XR Bootcamp teaches professionals to create VR/AR applications and supports comp
 [OPPO AR](https://open.oppomobile.com/newservice/capability?pagename=ar)
 
 [SenseAR](https://www.sensetime.com/en/product-detail?categoryId=1161)
+
+[亮风台](https://www.hiscene.com/)
 
 # VR硬件
 
