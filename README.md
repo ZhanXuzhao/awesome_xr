@@ -13,6 +13,8 @@ Awesome XR
 [知乎 子羽歌 AR、MR领域知识分享及产品测评，共同探索下一代计算平台](https://www.zhihu.com/people/douliar/posts)
 [罗巍Cyberverse 华为  Fellow Cyberverse总工程师 Camera总工程师 微博](https://weibo.com/u/7279906852?refer_flag=1005050010_&is_all=1)
 [罗巍Cyberverse 西瓜视频](https://www.ixigua.com/home/92030149148/?is_new_connect=0&is_new_user=0)
+[【华为河图 Cyberverse 】华为河图工程师罗巍大佬讲解演示河图 Cyberverse](https://www.bilibili.com/video/BV1XK411L7or)
+
 
 三次方AIRX
 [知乎](https://www.zhihu.com/column/ARDevelops)
