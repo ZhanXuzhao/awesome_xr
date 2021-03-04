@@ -2,6 +2,8 @@ Awesome XR
 
 # 新闻媒体
 
+[映维网 - 影响力虚拟现实（VR）、增强现实（AR）产业信息数据平台 - 映维网](https://www.nweon.com/)
+
 [VR陀螺 VR陀螺 | 挖掘VR/AR行业机会，为创业者传递价值](https://www.vrtuoluo.cn/)
 
 [VR陀螺 月报](https://www.vrtuoluo.cn/search?s=%E6%9C%88%E6%8A%A5)
