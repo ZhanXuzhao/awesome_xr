@@ -10,6 +10,7 @@ Awesome XR
 
 [vrpinea](http://www.vrpinea.com/)
 
+[深圳市增强现实技术应用协会 会员动态](http://www.szar.org.cn/home/news/nlist/cid/30.html)
 
 # 信息节点
 [知乎 子羽歌 AR、MR领域知识分享及产品测评，共同探索下一代计算平台](https://www.zhihu.com/people/douliar/posts)
