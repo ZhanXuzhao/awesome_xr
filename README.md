@@ -20,25 +20,27 @@ Awesome XR
 
 
 三次方AIRX
+[Facebook Reality Labs](https://tech.fb.com/ar-vr/)
+
 [知乎](https://www.zhihu.com/column/ARDevelops)
+
 [简书](https://www.jianshu.com/u/a57753a1ae07)
+
 [Twitter](https://twitter.com/airx_platform)
+
 [B站](https://space.bilibili.com/662603890)
+
 [西瓜视频](https://www.ixigua.com/home/50376137733/)
+
 [OSChina](https://my.oschina.net/u/4805491)
+
 [腾讯云](https://cloud.tencent.com/developer/column/90391)
 
-Cyril Diagne
-[Twitter](https://twitter.com/cyrildiagne)
+[Cyril Diagne Twitter](https://twitter.com/cyrildiagne)
 
-XR Bootcamp 
+[XR Bootcamp ](xrbootcamp.com)
 
-XR Bootcamp teaches professionals to create VR/AR applications and supports companies to bridge their skills gap in XR development.
 
-[官网](xrbootcamp.com)
-[Twitter](https://twitter.com/XR_Bootcamp)
-
-[]()
 []()
 []()
 []()
