@@ -42,6 +42,8 @@ Awesome XR
 
 [Facebook Project Aria](https://about.fb.com/realitylabs/projectaria/)
 
+[TechAtFacebook](https://www.facebook.com/watch/TechAtFacebook/)
+
 []()
 []()
 []()
