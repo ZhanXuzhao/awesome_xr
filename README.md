@@ -40,8 +40,8 @@ Awesome XR
 
 [XR Bootcamp ](xrbootcamp.com)
 
+[Facebook Project Aria](https://about.fb.com/realitylabs/projectaria/)
 
-[]()
 []()
 []()
 []()
