@@ -173,5 +173,8 @@ Awesome XR
 
 开发：资产管理：数字数字资产搜集、生产、整理、管理
 
+**visualize rhythm**
+https://assetstore.unity.com/packages/tools/audio/3d-visualizer-spectrum-vu-meter-100995
+https://www.youtube.com/watch?v=2UphAzryVpY&ab_channel=TED-Ed
 
 
